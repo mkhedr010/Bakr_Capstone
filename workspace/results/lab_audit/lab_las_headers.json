@@ -1,0 +1,714 @@
+[
+  {
+    "file": "D:\\SEMESTER 7\\Capstone project\\Data\\las_georef_pp_rtx_lidaradj_calibthisdata-20261105T155031Z-1-001\\las_georef_pp_rtx_lidaradj_calibthisdata\\L1_Mission 1_refl_001.las",
+    "size_bytes": 257946300,
+    "las_version": "1.2",
+    "point_format_id": 1,
+    "point_record_length": 28,
+    "point_count": 9212350,
+    "points_by_return": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      0.001,
+      0.001,
+      0.001
+    ],
+    "offset": [
+      606229.3456497005,
+      4811902.139639709,
+      62.86027633398771
+    ],
+    "min": [
+      606229.3456497005,
+      4811902.139639709,
+      62.86027633398771
+    ],
+    "max": [
+      606504.6338226707,
+      4812187.677920689,
+      80.15123160276562
+    ],
+    "extent_m": [
+      275.2881729701767,
+      285.5382809797302,
+      17.290955268777907
+    ],
+    "dimensions": [
+      "X",
+      "Y",
+      "Z",
+      "intensity",
+      "return_number",
+      "number_of_returns",
+      "scan_direction_flag",
+      "edge_of_flight_line",
+      "classification",
+      "synthetic",
+      "key_point",
+      "withheld",
+      "scan_angle_rank",
+      "user_data",
+      "point_source_id",
+      "gps_time"
+    ],
+    "extra_dimensions": [],
+    "system_identifier": "",
+    "generating_software": "TIMMS COLORIZED",
+    "creation_date": "None",
+    "global_encoding": 0,
+    "gps_time_type": "0",
+    "vlrs": [
+      {
+        "user_id": "LASF_Projection",
+        "record_id": 34735,
+        "description": "Georeferencing Information"
+      },
+      {
+        "user_id": "LASF_Projection",
+        "record_id": 34737,
+        "description": "Georeferencing Parameters"
+      }
+    ],
+    "crs_name": "parse_crs failed: ModuleNotFoundError",
+    "crs_epsg": null,
+    "crs_wkt_head": ""
+  },
+  {
+    "file": "D:\\SEMESTER 7\\Capstone project\\Data\\las_georef_pp_rtx_lidaradj_calibthisdata-20261105T155031Z-1-001\\las_georef_pp_rtx_lidaradj_calibthisdata\\L1_Mission 1_refl_002.las",
+    "size_bytes": 507639940,
+    "las_version": "1.2",
+    "point_format_id": 1,
+    "point_record_length": 28,
+    "point_count": 18129980,
+    "points_by_return": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      0.001,
+      0.001,
+      0.001
+    ],
+    "offset": [
+      606279.8564226616,
+      4811913.302248462,
+      52.91593231912702
+    ],
+    "min": [
+      606279.8564226616,
+      4811913.302248462,
+      52.91593231912702
+    ],
+    "max": [
+      606662.1084088671,
+      4812279.522400863,
+      90.15707518532872
+    ],
+    "extent_m": [
+      382.25198620557785,
+      366.220152400434,
+      37.2411428662017
+    ],
+    "dimensions": [
+      "X",
+      "Y",
+      "Z",
+      "intensity",
+      "return_number",
+      "number_of_returns",
+      "scan_direction_flag",
+      "edge_of_flight_line",
+      "classification",
+      "synthetic",
+      "key_point",
+      "withheld",
+      "scan_angle_rank",
+      "user_data",
+      "point_source_id",
+      "gps_time"
+    ],
+    "extra_dimensions": [],
+    "system_identifier": "",
+    "generating_software": "TIMMS COLORIZED",
+    "creation_date": "None",
+    "global_encoding": 0,
+    "gps_time_type": "0",
+    "vlrs": [
+      {
+        "user_id": "LASF_Projection",
+        "record_id": 34735,
+        "description": "Georeferencing Information"
+      },
+      {
+        "user_id": "LASF_Projection",
+        "record_id": 34737,
+        "description": "Georeferencing Parameters"
+      }
+    ],
+    "crs_name": "parse_crs failed: ModuleNotFoundError",
+    "crs_epsg": null,
+    "crs_wkt_head": ""
+  },
+  {
+    "file": "D:\\SEMESTER 7\\Capstone project\\Data\\las_georef_pp_rtx_lidaradj_calibthisdata-20261105T155031Z-1-001\\las_georef_pp_rtx_lidaradj_calibthisdata\\L1_Mission 1_refl_003.las",
+    "size_bytes": 501673980,
+    "las_version": "1.2",
+    "point_format_id": 1,
+    "point_record_length": 28,
+    "point_count": 17916910,
+    "points_by_return": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      0.001,
+      0.001,
+      0.001
+    ],
+    "offset": [
+      606369.2883812122,
+      4812013.096055789,
+      56.67499251291156
+    ],
+    "min": [
+      606369.2883812122,
+      4812013.096055789,
+      56.67499251291156
+    ],
+    "max": [
+      606687.123150582,
+      4812370.677366426,
+      89.53707920387387
+    ],
+    "extent_m": [
+      317.8347693698015,
+      357.58131063729525,
+      32.862086690962315
+    ],
+    "dimensions": [
+      "X",
+      "Y",
+      "Z",
+      "intensity",
+      "return_number",
+      "number_of_returns",
+      "scan_direction_flag",
+      "edge_of_flight_line",
+      "classification",
+      "synthetic",
+      "key_point",
+      "withheld",
+      "scan_angle_rank",
+      "user_data",
+      "point_source_id",
+      "gps_time"
+    ],
+    "extra_dimensions": [],
+    "system_identifier": "",
+    "generating_software": "TIMMS COLORIZED",
+    "creation_date": "None",
+    "global_encoding": 0,
+    "gps_time_type": "0",
+    "vlrs": [
+      {
+        "user_id": "LASF_Projection",
+        "record_id": 34735,
+        "description": "Georeferencing Information"
+      },
+      {
+        "user_id": "LASF_Projection",
+        "record_id": 34737,
+        "description": "Georeferencing Parameters"
+      }
+    ],
+    "crs_name": "parse_crs failed: ModuleNotFoundError",
+    "crs_epsg": null,
+    "crs_wkt_head": ""
+  },
+  {
+    "file": "D:\\SEMESTER 7\\Capstone project\\Data\\las_georef_pp_rtx_lidaradj_calibthisdata-20261105T155031Z-1-001\\las_georef_pp_rtx_lidaradj_calibthisdata\\L1_Mission 1_refl_004.las",
+    "size_bytes": 545497984,
+    "las_version": "1.2",
+    "point_format_id": 1,
+    "point_record_length": 28,
+    "point_count": 19482053,
+    "points_by_return": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      0.001,
+      0.001,
+      0.001
+    ],
+    "offset": [
+      606147.991265803,
+      4811889.613078537,
+      60.03253614436835
+    ],
+    "min": [
+      606147.991265803,
+      4811889.613078537,
+      60.03253614436835
+    ],
+    "max": [
+      606579.3825761386,
+      4812332.19313566,
+      87.97167041990906
+    ],
+    "extent_m": [
+      431.3913103356026,
+      442.5800571227446,
+      27.93913427554071
+    ],
+    "dimensions": [
+      "X",
+      "Y",
+      "Z",
+      "intensity",
+      "return_number",
+      "number_of_returns",
+      "scan_direction_flag",
+      "edge_of_flight_line",
+      "classification",
+      "synthetic",
+      "key_point",
+      "withheld",
+      "scan_angle_rank",
+      "user_data",
+      "point_source_id",
+      "gps_time"
+    ],
+    "extra_dimensions": [],
+    "system_identifier": "",
+    "generating_software": "TIMMS COLORIZED",
+    "creation_date": "None",
+    "global_encoding": 0,
+    "gps_time_type": "0",
+    "vlrs": [
+      {
+        "user_id": "LASF_Projection",
+        "record_id": 34735,
+        "description": "Georeferencing Information"
+      },
+      {
+        "user_id": "LASF_Projection",
+        "record_id": 34737,
+        "description": "Georeferencing Parameters"
+      }
+    ],
+    "crs_name": "parse_crs failed: ModuleNotFoundError",
+    "crs_epsg": null,
+    "crs_wkt_head": ""
+  },
+  {
+    "file": "D:\\SEMESTER 7\\Capstone project\\Data\\las_georef_pp_rtx_lidaradj_calibthisdata-20261105T155031Z-1-001\\las_georef_pp_rtx_lidaradj_calibthisdata\\L1_Mission 1_refl_005.las",
+    "size_bytes": 84281116,
+    "las_version": "1.2",
+    "point_format_id": 1,
+    "point_record_length": 28,
+    "point_count": 3010022,
+    "points_by_return": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      0.001,
+      0.001,
+      0.001
+    ],
+    "offset": [
+      606383.7653380837,
+      4812041.929378647,
+      60.206593118608
+    ],
+    "min": [
+      606383.7653380837,
+      4812041.929378647,
+      60.206593118608
+    ],
+    "max": [
+      606644.9907179871,
+      4812312.56865982,
+      89.42477702721953
+    ],
+    "extent_m": [
+      261.2253799033351,
+      270.63928117230535,
+      29.218183908611536
+    ],
+    "dimensions": [
+      "X",
+      "Y",
+      "Z",
+      "intensity",
+      "return_number",
+      "number_of_returns",
+      "scan_direction_flag",
+      "edge_of_flight_line",
+      "classification",
+      "synthetic",
+      "key_point",
+      "withheld",
+      "scan_angle_rank",
+      "user_data",
+      "point_source_id",
+      "gps_time"
+    ],
+    "extra_dimensions": [],
+    "system_identifier": "",
+    "generating_software": "TIMMS COLORIZED",
+    "creation_date": "None",
+    "global_encoding": 0,
+    "gps_time_type": "0",
+    "vlrs": [
+      {
+        "user_id": "LASF_Projection",
+        "record_id": 34735,
+        "description": "Georeferencing Information"
+      },
+      {
+        "user_id": "LASF_Projection",
+        "record_id": 34737,
+        "description": "Georeferencing Parameters"
+      }
+    ],
+    "crs_name": "parse_crs failed: ModuleNotFoundError",
+    "crs_epsg": null,
+    "crs_wkt_head": ""
+  },
+  {
+    "file": "D:\\SEMESTER 7\\Capstone project\\Data\\road_before_n_after_pavement-20261105T155034Z-1-001\\road_before_n_after_pavement\\after_Sep16_2024\\L1_Mission 1_refl_001.las",
+    "size_bytes": 682336504,
+    "las_version": "1.2",
+    "point_format_id": 1,
+    "point_record_length": 28,
+    "point_count": 24369143,
+    "points_by_return": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      0.001,
+      0.001,
+      0.001
+    ],
+    "offset": [
+      629054.84901381,
+      4846222.460639874,
+      34.40407050028443
+    ],
+    "min": [
+      629054.84901381,
+      4846222.460639874,
+      34.40407050028443
+    ],
+    "max": [
+      629534.0863543134,
+      4846580.184719134,
+      177.55213130358607
+    ],
+    "extent_m": [
+      479.23734050337225,
+      357.72407925967127,
+      143.14806080330163
+    ],
+    "dimensions": [
+      "X",
+      "Y",
+      "Z",
+      "intensity",
+      "return_number",
+      "number_of_returns",
+      "scan_direction_flag",
+      "edge_of_flight_line",
+      "classification",
+      "synthetic",
+      "key_point",
+      "withheld",
+      "scan_angle_rank",
+      "user_data",
+      "point_source_id",
+      "gps_time"
+    ],
+    "extra_dimensions": [],
+    "system_identifier": "",
+    "generating_software": "TIMMS COLORIZED",
+    "creation_date": "None",
+    "global_encoding": 0,
+    "gps_time_type": "0",
+    "vlrs": [
+      {
+        "user_id": "LASF_Projection",
+        "record_id": 34735,
+        "description": "Georeferencing Information"
+      },
+      {
+        "user_id": "LASF_Projection",
+        "record_id": 34737,
+        "description": "Georeferencing Parameters"
+      }
+    ],
+    "crs_name": "parse_crs failed: ModuleNotFoundError",
+    "crs_epsg": null,
+    "crs_wkt_head": ""
+  },
+  {
+    "file": "D:\\SEMESTER 7\\Capstone project\\Data\\road_before_n_after_pavement-20261105T155034Z-1-001\\road_before_n_after_pavement\\before_May21_2023\\L1_Mission 1_refl_001.las",
+    "size_bytes": 741741864,
+    "las_version": "1.2",
+    "point_format_id": 1,
+    "point_record_length": 28,
+    "point_count": 26490763,
+    "points_by_return": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      0.001,
+      0.001,
+      0.001
+    ],
+    "offset": [
+      629089.3751781718,
+      4845975.315084094,
+      51.17142250388861
+    ],
+    "min": [
+      629089.3751781718,
+      4845975.315084094,
+      51.17142250388861
+    ],
+    "max": [
+      629690.9132568311,
+      4846543.003265318,
+      246.36801365483552
+    ],
+    "extent_m": [
+      601.5380786593305,
+      567.6881812242791,
+      195.19659115094692
+    ],
+    "dimensions": [
+      "X",
+      "Y",
+      "Z",
+      "intensity",
+      "return_number",
+      "number_of_returns",
+      "scan_direction_flag",
+      "edge_of_flight_line",
+      "classification",
+      "synthetic",
+      "key_point",
+      "withheld",
+      "scan_angle_rank",
+      "user_data",
+      "point_source_id",
+      "gps_time"
+    ],
+    "extra_dimensions": [],
+    "system_identifier": "",
+    "generating_software": "TIMMS COLORIZED",
+    "creation_date": "None",
+    "global_encoding": 0,
+    "gps_time_type": "0",
+    "vlrs": [
+      {
+        "user_id": "LASF_Projection",
+        "record_id": 34735,
+        "description": "Georeferencing Information"
+      },
+      {
+        "user_id": "LASF_Projection",
+        "record_id": 34737,
+        "description": "Georeferencing Parameters"
+      }
+    ],
+    "crs_name": "parse_crs failed: ModuleNotFoundError",
+    "crs_epsg": null,
+    "crs_wkt_head": ""
+  },
+  {
+    "file": "D:\\SEMESTER 7\\Capstone project\\Data\\road_before_n_after_pavement-20261105T155034Z-1-001\\road_before_n_after_pavement\\before_May21_2023\\L1_Mission 1_refl_003.las",
+    "size_bytes": 493173656,
+    "las_version": "1.2",
+    "point_format_id": 1,
+    "point_record_length": 28,
+    "point_count": 17613327,
+    "points_by_return": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      0.001,
+      0.001,
+      0.001
+    ],
+    "offset": [
+      629333.6515122886,
+      4846363.482759143,
+      112.81181995477527
+    ],
+    "min": [
+      629333.6515122886,
+      4846363.482759143,
+      112.81181995477527
+    ],
+    "max": [
+      629645.5439101292,
+      4846684.697406063,
+      244.13107360061258
+    ],
+    "extent_m": [
+      311.89239784062374,
+      321.21464691963047,
+      131.3192536458373
+    ],
+    "dimensions": [
+      "X",
+      "Y",
+      "Z",
+      "intensity",
+      "return_number",
+      "number_of_returns",
+      "scan_direction_flag",
+      "edge_of_flight_line",
+      "classification",
+      "synthetic",
+      "key_point",
+      "withheld",
+      "scan_angle_rank",
+      "user_data",
+      "point_source_id",
+      "gps_time"
+    ],
+    "extra_dimensions": [],
+    "system_identifier": "",
+    "generating_software": "TIMMS COLORIZED",
+    "creation_date": "None",
+    "global_encoding": 0,
+    "gps_time_type": "0",
+    "vlrs": [
+      {
+        "user_id": "LASF_Projection",
+        "record_id": 34735,
+        "description": "Georeferencing Information"
+      },
+      {
+        "user_id": "LASF_Projection",
+        "record_id": 34737,
+        "description": "Georeferencing Parameters"
+      }
+    ],
+    "crs_name": "parse_crs failed: ModuleNotFoundError",
+    "crs_epsg": null,
+    "crs_wkt_head": ""
+  }
+]
